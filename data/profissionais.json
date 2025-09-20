@@ -1,0 +1,173 @@
+[
+    {
+      "id": 1,
+      "nome": "Dr. João Silva",
+      "especialidade": "Cardiologia",
+      "crm": "12345-SP",
+      "telefone": "(11) 98765-4321",
+      "email": "joao.silva@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "diasAtendimento": ["Segunda", "Terça", "Quarta", "Quinta", "Sexta"]
+    },
+    {
+      "id": 2,
+      "nome": "Dra. Maria Santos",
+      "especialidade": "Pediatria",
+      "crm": "23456-SP",
+      "telefone": "(11) 91234-5678",
+      "email": "maria.santos@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "07:00-11:00",
+        "13:00-17:00"
+      ],
+      "diasAtendimento": ["Segunda", "Terça", "Quinta", "Sexta", "Sábado"]
+    },
+    {
+      "id": 3,
+      "nome": "Dr. Carlos Oliveira",
+      "especialidade": "Ortopedia",
+      "crm": "34567-SP",
+      "telefone": "(11) 95678-9012",
+      "email": "carlos.oliveira@clinica.com.br",
+      "disponivel": false,
+      "horarios": [
+        "09:00-13:00",
+        "15:00-19:00"
+      ],
+      "diasAtendimento": ["Terça", "Quarta", "Quinta", "Sexta"],
+      "motivoIndisponibilidade": "Férias até 25/09/2025"
+    },
+    {
+      "id": 4,
+      "nome": "Dra. Ana Costa",
+      "especialidade": "Dermatologia",
+      "crm": "45678-SP",
+      "telefone": "(11) 92345-6789",
+      "email": "ana.costa@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "08:30-12:30",
+        "14:30-18:30"
+      ],
+      "diasAtendimento": ["Segunda", "Terça", "Quarta", "Quinta"]
+    },
+    {
+      "id": 5,
+      "nome": "Dr. Roberto Lima",
+      "especialidade": "Neurologia",
+      "crm": "56789-SP",
+      "telefone": "(11) 93456-7890",
+      "email": "roberto.lima@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "09:00-12:00",
+        "14:00-17:00"
+      ],
+      "diasAtendimento": ["Segunda", "Quarta", "Sexta"]
+    },
+    {
+      "id": 6,
+      "nome": "Dra. Patricia Alves",
+      "especialidade": "Ginecologia",
+      "crm": "67890-SP",
+      "telefone": "(11) 94567-8901",
+      "email": "patricia.alves@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "08:00-12:00",
+        "13:00-17:00"
+      ],
+      "diasAtendimento": ["Segunda", "Terça", "Quarta", "Quinta", "Sexta"]
+    },
+    {
+      "id": 7,
+      "nome": "Dr. Fernando Rocha",
+      "especialidade": "Cardiologia",
+      "crm": "78901-SP",
+      "telefone": "(11) 95678-9012",
+      "email": "fernando.rocha@clinica.com.br",
+      "disponivel": false,
+      "horarios": [
+        "07:00-11:00",
+        "15:00-19:00"
+      ],
+      "diasAtendimento": ["Terça", "Quinta", "Sexta", "Sábado"],
+      "motivoIndisponibilidade": "Congresso médico"
+    },
+    {
+      "id": 8,
+      "nome": "Dra. Luciana Torres",
+      "especialidade": "Oftalmologia",
+      "crm": "89012-SP",
+      "telefone": "(11) 96789-0123",
+      "email": "luciana.torres@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "diasAtendimento": ["Segunda", "Terça", "Quarta", "Quinta"]
+    },
+    {
+      "id": 9,
+      "nome": "Dr. Ricardo Moreira",
+      "especialidade": "Psiquiatria",
+      "crm": "90123-SP",
+      "telefone": "(11) 97890-1234",
+      "email": "ricardo.moreira@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "09:00-13:00",
+        "15:00-19:00"
+      ],
+      "diasAtendimento": ["Segunda", "Terça", "Quarta", "Quinta", "Sexta"]
+    },
+    {
+      "id": 10,
+      "nome": "Dra. Camila Ferreira",
+      "especialidade": "Pediatria",
+      "crm": "01234-SP",
+      "telefone": "(11) 98901-2345",
+      "email": "camila.ferreira@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "07:30-11:30",
+        "13:30-17:30"
+      ],
+      "diasAtendimento": ["Segunda", "Terça", "Quarta", "Quinta", "Sexta", "Sábado"]
+    },
+    {
+      "id": 11,
+      "nome": "Dr. Gabriel Santos",
+      "especialidade": "Urologia",
+      "crm": "11234-SP",
+      "telefone": "(11) 99012-3456",
+      "email": "gabriel.santos@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "08:00-12:00",
+        "14:00-18:00"
+      ],
+      "diasAtendimento": ["Terça", "Quarta", "Quinta", "Sexta"]
+    },
+    {
+      "id": 12,
+      "nome": "Dra. Isabela Cunha",
+      "especialidade": "Endocrinologia",
+      "crm": "21234-SP",
+      "telefone": "(11) 90123-4567",
+      "email": "isabela.cunha@clinica.com.br",
+      "disponivel": true,
+      "horarios": [
+        "09:00-13:00",
+        "15:00-19:00"
+      ],
+      "diasAtendimento": ["Segunda", "Quarta", "Quinta", "Sexta"]
+    }
+  ]
+  
